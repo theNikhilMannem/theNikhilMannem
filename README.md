@@ -2,6 +2,10 @@
 
 ### Welcome!! I am Nikhil. And, I work with code!
 
+This is one of my spaces where I host some of my code achieveents and host my site. I don't mind if you wanna dig in through the repos as I find browsing through code around the web fun and resourceful.
+
+:) Bonne Journée!
+
 <!--
 **theNikhilMannem/theNikhilMannem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
