@@ -1,12 +1,6 @@
 ### Hi there 👋
 
-### Welcome!! I am Nikhil. And, I happened to love code ;)
-
-I love ReactJS. I have been working on it for a while now and am looking forward to acing it with the condiments of passionate curiosity.
-I'm involved in React, Express, Node, Mongoose, MongoDB, Helmet and relevant modules inferring the MERN Stack development model.
-I also like Mobile App development using the React Native library.
-
-Feel free to fork.. XD
+### Welcome!! I am Nikhil. And, I work with code!
 
 <!--
 **theNikhilMannem/theNikhilMannem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
