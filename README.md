@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### Welcome!! I am Nikhil. And, I code!
+### Welcome!! I am Nikhil. And, I code, among other things!
 
 This is one of my spaces where I maintain some of my code achievements and host my site. I don't mind if you wanna dig in through the repos as I myself find browsing through code around the web fun and resourceful.
 
