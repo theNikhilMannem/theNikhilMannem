@@ -6,6 +6,9 @@ This is one of my spaces where I maintain some of my code achievements and host 
 
 :) Bonne Journée!
 
+- LinkedIn: [Your LinkedIn profile](https://www.linkedin.com/in/your_profile)
+- Twitter: [Your Twitter profile](https://twitter.com/your_twitter_username)
+
 <!--
 **theNikhilMannem/theNikhilMannem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
